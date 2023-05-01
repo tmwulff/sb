@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d79cebd8.js",
+    "main.js": "/static/js/main.996b833f.js",
     "static/js/787.72619076.chunk.js": "/static/js/787.72619076.chunk.js",
     "static/media/Tyler_Wulff_Assignment_2.pdf": "/static/media/Tyler_Wulff_Assignment_2.9b499389c4d6ba0478c7.pdf",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d79cebd8.js.map": "/static/js/main.d79cebd8.js.map",
+    "main.996b833f.js.map": "/static/js/main.996b833f.js.map",
     "787.72619076.chunk.js.map": "/static/js/787.72619076.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d79cebd8.js"
+    "static/js/main.996b833f.js"
   ]
 }
