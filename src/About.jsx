@@ -1,0 +1,19 @@
+import { Typography } from "@mui/material";
+import React from "react";
+  
+const About = () => {
+  return (
+    <div>
+      <h1>About Our Project</h1>
+      <Typography mr={15} ml={15}>
+      Sports betting has become increasingly popular over the last several years. Thirty-three states now offer some sort of sports betting, whether online or in-person. We can expect more states to pass legislation and implement sports betting in the coming years. Sports betting has also become a solid revenue generator, bringing in 6.56 billion dollars of revenue in 2022.
+There are four types of bets that will be focused on in this project. Three of these bets will focus on teams as a whole; moneyline, spread, and over/under. A moneyline bet consists of betting on one team to beat another and your bet will win or lose solely based on the win or loss result of the game. Moneyline bets usually bring different odds than the other bets that will be looked at have. This means that if Team A is expected to beat Team B, you will win less money if you bet on team A than if you bet on Team B. Odds will be looked at more later. Spread betting, unlike moneyline betting, means that you are betting on one team to beat the other by a predetermined number of points. Sportsbooks will set lines before a game starts, indicating how much they expect a team to beat another team. 
+Looking at NBA lines, on February 28th, the Toronto Raptors played the Chicago Bulls, with the spread being Raptors -4.5. This means that the Raptors were expected to win by 4.5 points. You could either have bet Raptors -4.5, meaning if the Raptors won by more than 4.5 points you won, otherwise, you could have bet Bulls +4.5 and if any other result occurred, you won. The Raptors ended up winning by 6 and "covering" the spread of -4.5. Then, there are over/under bets. When taking an over/under, you are betting on how many points will be scored in the game. Looking back at the previous NBA game, the over/under was set at 219.5, meaning the two teams were expected to combine for 219.5. The score ended 104-98, meaning the under of 219.5 hit. Spread and over/unders will mostly consist of odds of -110. Although this is not always true, it is commonly the case. No matter what side you are on, you will have odds of -110. This means that in order to win 100 dollars, you need to bet 110 dollars. Avoiding a 50/50 payout is a way that sportsbooks are able to bring in such massive profits. 
+As stated earlier, moneylines are a little different. Once again looking back to the Raptors game, since the Raptors were already expected to win, if you wanted to just bet on Raptors moneyline, the odds were -175; a 175 dollar bet would win you 100 dollars. On the flip side, if you took Bulls moneyline, the odds were +140. If the Bulls had won, a 100 dollar bet would have won 140 dollars. The last type of bet that will be looked at is player props. These bets consist of individual player accomplishments in a game. Points, rebounds, assists, etc. can all be bet on for individual players. An over/under of each of these attributes will be set by the sportsbooks and the better has the ability to bet on whether a player will exceed or stay below the line for the individual attributes. 
+Player props have become an increasingly popular bet with the arrival of mobile sports betting. Bettors can bet on a player to make a certain number of points, assists, blocks, and a variety of other stat lines. This data is widely available and sportsbooks build their own models. If a bettor is able to make a more accurate model, it is possible to win money in the long run. 
+      </Typography>
+    </div>
+  );
+};
+  
+export default About;
