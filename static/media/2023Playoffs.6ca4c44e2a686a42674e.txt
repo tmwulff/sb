@@ -1,0 +1,5 @@
+Higher Seed, Lower Seed,Current Model Predicted Winner
+New York Knicks, Miami Heat, Miami Heat
+Boston Celtics, Philadelphia 76ers, Boston Celtics
+Denver Nuggets, Phoenix Suns, Denver Nuggets
+LA Lakers, Golden State Warriors, Golden State Warriors
