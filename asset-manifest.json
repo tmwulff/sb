@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.6a33f841.js",
+    "main.js": "/static/js/main.637f5a0d.js",
     "static/js/787.72619076.chunk.js": "/static/js/787.72619076.chunk.js",
     "pdf.worker.js": "/29df5625b58264ff6592c36ee10371a2.js",
     "static/media/Machine_Learning_in_Sports_Betting__Milestone_1_.pdf": "/static/media/Machine_Learning_in_Sports_Betting__Milestone_1_.44a9edc1a99ec62879f6.pdf",
+    "static/media/Final Presentation.pdf": "/static/media/Final Presentation.31c5ca52011ea096920d.pdf",
     "static/media/2023Predictions.txt": "/static/media/2023Predictions.6ab0f4fe0012627eda31.txt",
+    "static/media/modelcomparison.jpg": "/static/media/modelcomparison.e32798755662aefc388c.jpg",
+    "static/media/profit.jpg": "/static/media/profit.e40a605e1812985ded29.jpg",
+    "static/media/confusionmatrix.png": "/static/media/confusionmatrix.83e6fbcfb53d2bd4b0fc.png",
     "index.html": "/index.html",
     "static/media/2023Playoffs.txt": "/static/media/2023Playoffs.6ca4c44e2a686a42674e.txt",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.6a33f841.js.map": "/static/js/main.6a33f841.js.map",
+    "main.637f5a0d.js.map": "/static/js/main.637f5a0d.js.map",
     "787.72619076.chunk.js.map": "/static/js/787.72619076.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6a33f841.js"
+    "static/js/main.637f5a0d.js"
   ]
 }
